@@ -8,4 +8,4 @@
 | dragOver      | 拖拽结束（松开鼠标的时候）                                  |       |function |
 | moveStop      | 每一个元素运动停止了以后（只要是点一下就会有 moveStop）       |       |function |
 | time          | 运动时间                                                   | 500ms | string  |
-| type          | 运动类型 ease-out减速 默认  ease-in加速 linear匀速          |       |  string |
+| type          | 运动类型 ease-out减速 默认  ease-in加速 linear匀速          |ease-out|  string |

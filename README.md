@@ -53,3 +53,9 @@
 <p align="center">
     <img src="./images/1.gif" alt="截频演示" width="100%">
 </p>
+
+## 下载到本地 ##
+
+* git clone https://github.com/yellowfrogCN/dragSort.git
+* npm i
+* http://localhost:8088/

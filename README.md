@@ -51,5 +51,5 @@
 * 概览
 
 <p align="center">
-    <img src="../../images/1.gif" alt="截频演示" width="100%">
+    <img src="./images/1.gif" alt="截频演示" width="100%">
 </p>

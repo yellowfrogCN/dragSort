@@ -23,18 +23,15 @@
         type="ease-out"//运动类型 ease-out减速 默认  ease-in加速 linear匀速 
         className="dragSort"            
     >
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
-        <div>4</div>
-        <div>5</div>
-        <div>6</div>
-        <div>7</div>
-        <div>8</div>
-        <div>9</div>
-        <div>10</div>
-        <div>11</div>
-        <div>12</div>        
+        <div>拖动的元素1</div>
+        <div>拖动的元素2</div>
+        <div>拖动的元素3</div>
+        <div>拖动的元素4</div>
+        <div>拖动的元素5</div>
+        <div>拖动的元素6</div>
+        <div>拖动的元素7</div>
+        <div>拖动的元素8</div>
+        <div>拖动的元素9</div>      
     </DragSort>
 ```
 ## API

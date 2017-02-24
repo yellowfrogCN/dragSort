@@ -58,4 +58,5 @@
 
 * git clone https://github.com/yellowfrogCN/dragSort.git
 * npm i
+* npm start
 * http://localhost:8088/
